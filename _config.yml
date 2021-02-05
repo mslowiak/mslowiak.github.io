@@ -19,11 +19,11 @@ avatar: https://avatars.githubusercontent.com/u/18486535?s=460&u=ca2de45828b8392
 footer-links:
   dribbble:
   email:
-  facebook: https://www.facebook.com/slowiak.marcin/
+  facebook: slowiak.marcin
   flickr:
-  github: https://github.com/mslowiak
+  github: mslowiak
   instagram:
-  linkedin: https://www.linkedin.com/in/mslowiak/
+  linkedin: mslowiak
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
@@ -37,7 +37,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: 189036962
+google_analytics: G-D3R168NTM2
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
