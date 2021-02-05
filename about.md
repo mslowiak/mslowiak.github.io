@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi there! :)
 
-### More Information
+I am Marcin and I work as a Software Engineer - living in Cracow.
 
-A place to include any other types of information that you'd like to include about yourself.
+Technology geek and reactive programming enthusiast. 
+
+In my spare time I contribute to open source projects.
+I was a mentor in [devleaders](devleaders.pl) project.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+linkedin: [linkedin.com/in/mslowiak/](https://www.linkedin.com/in/mslowiak)
